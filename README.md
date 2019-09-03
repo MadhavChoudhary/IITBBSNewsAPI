@@ -117,4 +117,4 @@ You can [tweet me](https://twitter.com/ultimateaps) if script deprecate.
 
 ## License
 
-Built with ♥ by Aman Pratap Singh([@apsknight](http://amanpratapsingh.github.io)) under [MIT License](http://aps.mit-license.org/)
+Built with ♥ by Madhav Tummala([@madhavchoudhary](http://madhavchoudhary.github.io))
